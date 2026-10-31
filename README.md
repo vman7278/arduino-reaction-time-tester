@@ -58,3 +58,14 @@ Developed using Arduino IDE and the Arduino programming language (C/C++).
 - Reaction-time statistics across multiple rounds
 - LCD/OLED display integration
 - More advanced scoring and game modes
+
+
+
+## Project Photos
+
+### Arduino UNO Setup
+![Arduino Reaction-Time Tester](Arduino-ReactionTime.jpg)
+
+### Breadboard Circuit
+![Reaction-Time Tester Breadboard](Breadboard-ReactionTime.jpg)
+
